@@ -1,0 +1,9 @@
+/data
+/log
+.DS_Store
+__pycache__
+.ipynb_checkpoints
+/notebooks/.ipynb_checkpoints
+/gifs
+/env
+/diff_dims_2
