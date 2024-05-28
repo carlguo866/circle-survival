@@ -1,5 +1,5 @@
 # Survival of the Fittest Representation
-This repository contains the code for the paper "Survival of the Fittest Representation: A Case Study with Modular Addition."
+This repository contains the code for the paper ["Survival of the Fittest Representation: A Case Study with Modular Addition."](https://arxiv.org/abs/2405.17420)
 
 ## Installation
 All required packages are listed in `requirements.txt`. To install, run:
@@ -35,4 +35,11 @@ Reproduce figures in Section 2 (setup) with `plot_signal_spectrum.py`, Section 3
 If you have any questions about the paper or reproducing results, feel free to email [carlguo@mit.edu](mailto:carlguo@mit.edu).
 
 ## Citation
-
+```
+@article{ding2024survival,
+      title={Survival of the Fittest Representation: A Case Study with Modular Addition}, 
+      author={Xiaoman Delores Ding and Zifan Carl Guo and Eric J. Michaud and Ziming Liu and Max Tegmark},
+      year={2024},
+      journal={arXiv preprint arXiv:2405.17420}
+}
+```
